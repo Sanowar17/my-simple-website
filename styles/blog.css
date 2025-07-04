@@ -3,3 +3,6 @@ div{
     padding: 15px; 
     margin-bottom: 10px;
 }
+#welcome{
+    color: aqua; font-family: 'Courier New', Courier, monospace; background-color: rgb(241, 152, 87); font-size:50px; text-align: center;
+}
